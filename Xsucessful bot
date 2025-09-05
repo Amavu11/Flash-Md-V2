@@ -1,0 +1,3 @@
+SESSION_ID = your_session_id_here
+SUDO = 9155281791
+TERMUX = true
